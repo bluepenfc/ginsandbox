@@ -1,3 +1,3 @@
 # ginsandbox
 
-intergrate gin with docker services
+intergrate gin with docker services of redis 
